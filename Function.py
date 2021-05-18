@@ -1,0 +1,1 @@
+print "Funtion 1"
